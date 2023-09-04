@@ -3,6 +3,3 @@ node_modules/
 /playwright-report/
 /playwright/.cache/
 .DS_Store
-
-# IDEs and editors
-.vscode/
